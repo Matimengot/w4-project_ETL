@@ -13,19 +13,19 @@
 
 # Objetivo 🎶🌎
 
-Para este proyecto, mi objetivo se baso en ver como varian los distintos gustos musicales con el correr de los anos. Para esto decidi analizar los albums que estuvieron en el ranking desde los 90 hasta la actualidad.
+Para este proyecto, mi objetivo se basó en ver como varían los distintos gustos musicales con el correr de los anos. Para esto decidí analizar los albums que estuvieron en el ranking desde los 90 hasta la actualidad.
 
 <a name="trans"/>
 
-# Extraccion y transformacion 🔍
+# Extracción y transformación 🔍
 
-En la extraccion de datos utilice los tres metodos posibles: scrapeo, utlizacion de la api de spotify y descarga de database en kaggle.
+En la extracción de datos utilice los tres métodos posibles: scrapeo utilización de la api de Spotify y descarga de database en kaggle.
 
-Primero descargue una base de datos que me proporcione los albums que estuvieron en el top de mas escuchados desde 1990 hasta 2021. La ordene segun mis preferencias y necesidades.
+Primero descargue una base de datos que me proporcione los albums que estuvieron en el top de más escuchados desde 1990 hasta 2021. La ordene según mis preferencias y necesidades.
 
-Luego con la api de spotify extrai aquella informacion relevante para analizar mi objetivo. Desde la api, consegui los id de los albums que importe de mi database y a partir de ahi extraje desde la api datos relevantes sobre los albums. Con la extraccion desde la api genere dos tablas, albums y canciones. Siendo canciones todas las canciones que contiene cada album del top.
+Luego con la api de spotify extraje aquella información relevante para analizar mi objetivo. Desde la api, conseguí los id de los albums que importe de mi database y a partir de ahí extraje desde la api datos relevantes sobre los albums. Con la extracción desde la api genere dos tablas, albums y canciones. Siendo canciones todas las canciones que contiene cada album del top.
 
-Por ultimo realice un scrapeo de wikipedia para obtener informacion sobre todos los artistas generando una nueva tabla con informacion relevante sobre cada artista.
+Por último realice un scrapeo de Wikipedia para obtener información sobre todos los artistas generando una nueva tabla con información relevante sobre cada artista.
 
 <a name="sql"/>
 
