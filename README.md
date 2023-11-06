@@ -4,14 +4,20 @@
 
 ## Index 🤘
 
+1. [Objetivo](#obj)
+2. [Extraccion y transformacion](#trans)
+3. [Guardado en SQL](#sql)
+4. [Informacion y links](#info)
 
+<a name="obj"/>
 
-
-## Objetivo 🎶🌎
+# Objetivo 🎶🌎
 
 Para este proyecto, mi objetivo se baso en ver como varian los distintos gustos musicales con el correr de los anos. Para esto decidi analizar los albums que estuvieron en el ranking desde los 90 hasta la actualidad.
 
-## Extraccion y transformacion 🔍
+<a name="trans"/>
+
+# Extraccion y transformacion 🔍
 
 En la extraccion de datos utilice los tres metodos posibles: scrapeo, utlizacion de la api de spotify y descarga de database en kaggle.
 
@@ -21,10 +27,13 @@ Luego con la api de spotify extrai aquella informacion relevante para analizar m
 
 Por ultimo realice un scrapeo de wikipedia para obtener informacion sobre todos los artistas generando una nueva tabla con informacion relevante sobre cada artista.
 
+<a name="sql"/>
 
 # Guardado en SQL 🐬
 
 Con las tablas de la extraccion, cargamos las tablas en MySQL donde determinamos las relaciones entre ellas y corriendo querys que reflejen nuestro objetivo.
+
+<a name="info"/>
 
 # Informacion y links  📂 🔗
 
