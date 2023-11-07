@@ -13,7 +13,7 @@
 
 # Objetivo 🎶🌎
 
-Para este proyecto, mi objetivo se basó en ver como varían los distintos gustos musicales con el correr de los anos. Para esto decidí analizar los albums que estuvieron en el ranking desde los 90 hasta la actualidad.
+Para este proyecto, mi objetivo se basó en ver como varían los distintos gustos musicales con el correr de los años. Para esto decidí analizar los albums que estuvieron en el ranking desde los 90 hasta la actualidad.
 
 <a name="trans"/>
 
